@@ -1,0 +1,54 @@
+[
+    {
+        "schoolYear": "2016-2017",
+        "courses": [
+            {
+                "name": "Computer Architectures",
+                "file": "arch_2016.json"
+            },
+            {
+                "name": "Operating Systems",
+                "file": "os_2017.json"
+            }
+        ]
+    },
+    {
+        "schoolYear": "2017-2018",
+        "courses": [
+            {
+                "name": "Computer Architectures",
+                "file": "arch_2017.json"
+            },
+            {
+                "name": "Operating Systems",
+                "file": "os_2018.json"
+            }
+        ]
+    },
+    {
+        "schoolYear": "2018-2019",
+        "courses": [
+            {
+                "name": "Computer Architectures",
+                "file": "arch_2018.json"
+            },
+            {
+                "name": "Operating Systems",
+                "file": "os_2019.json"
+            }
+        ]
+    },
+    {
+        "schoolYear": "2019-2020",
+        "courses": [
+            {
+                "name": "Computer Architectures",
+                "file": "arch_2019.json"
+            },
+            {
+                "name": "XML Data Management",
+                "file": "xml_2019.json"
+            }
+        ]
+    }
+]

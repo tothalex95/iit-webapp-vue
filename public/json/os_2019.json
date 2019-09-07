@@ -1,0 +1,1982 @@
+[
+{
+"neptunCode": "P3AANP",
+"presence": 12,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "WF8H4F",
+"presence": 12,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 1
+},
+{
+"neptunCode": "F92356",
+"presence": 10,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 0
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 0
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "WCD0QI",
+"presence": 10,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 0
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "CLPE25",
+"presence": 12,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "RSXIRP",
+"presence": 10,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 0
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "JEDU1N",
+"presence": 11,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "LHS2S6",
+"presence": 10,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 0
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "AZEVA7",
+"presence": 11,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "Q7WCU4",
+"presence": 10,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 0
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "AQC53Z",
+"presence": 11,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 0
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "OYDQP1",
+"presence": 11,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 0
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "DK6HQP",
+"presence": 9,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 0
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 0
+}
+],
+"hw1": 1,
+"hw2": 0,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "NRTHZZ",
+"presence": 11,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 0
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "ACUEBO",
+"presence": 8,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 0
+},
+{
+"date": "2019.04.17.",
+"detail": 0
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 0
+}
+],
+"hw1": 1,
+"hw2": 0,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "BKUPJ9",
+"presence": 10,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 0
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 0
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "X7A7XR",
+"presence": 11,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 0
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "F6MYAZ",
+"presence": 10,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 0
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "AVVD94",
+"presence": 8,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 0
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 0
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 0
+}
+],
+"hw1": 1,
+"hw2": 0,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "B2EOA4",
+"presence": 8,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 0
+},
+{
+"date": "2019.03.27.",
+"detail": 0
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 0
+}
+],
+"hw1": 1,
+"hw2": 0,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "AW55YL",
+"presence": 10,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 0
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "MXM2NQ",
+"presence": 10,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 0
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "B30IIT",
+"presence": 11,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "CWLKE4",
+"presence": 11,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 0
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "XX75TL",
+"presence": 9,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 0
+},
+{
+"date": "2019.02.27.",
+"detail": 0
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 0
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "LP5J4B",
+"presence": 8,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 0
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 0
+},
+{
+"date": "2019.04.10.",
+"detail": 0
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 0
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "M9QNOF",
+"presence": 11,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 0
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "EC58SB",
+"presence": 11,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 0
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "B00P5Y",
+"presence": 11,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 0
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "BB89VX",
+"presence": 10,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 0
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "HUQFYG",
+"presence": 10,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 0
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 0
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "GG2BMB",
+"presence": 11,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 0
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 1
+},
+{
+"date": "2019.04.24.",
+"detail": 1
+},
+{
+"date": "2019.05.08.",
+"detail": 1
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+},
+{
+"neptunCode": "INZV77",
+"presence": 9,
+"max": 12,
+"presenceDetails": 
+[
+{
+"date": "2019.02.13.",
+"detail": 1
+},
+{
+"date": "2019.02.20.",
+"detail": 1
+},
+{
+"date": "2019.02.27.",
+"detail": 1
+},
+{
+"date": "2019.03.06.",
+"detail": 1
+},
+{
+"date": "2019.03.13.",
+"detail": 1
+},
+{
+"date": "2019.03.20.",
+"detail": 1
+},
+{
+"date": "2019.03.27.",
+"detail": 1
+},
+{
+"date": "2019.04.03.",
+"detail": 1
+},
+{
+"date": "2019.04.10.",
+"detail": 1
+},
+{
+"date": "2019.04.17.",
+"detail": 0
+},
+{
+"date": "2019.04.24.",
+"detail": 0
+},
+{
+"date": "2019.05.08.",
+"detail": 0
+}
+],
+"hw1": 1,
+"hw2": 1,
+"fulfilled": false,
+"plusPoint": 0
+}
+]

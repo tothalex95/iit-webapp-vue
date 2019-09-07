@@ -1,0 +1,1328 @@
+[
+    {
+        "neptunCode": "WIPKKH",
+        "presence": 0,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 0
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 0
+            }
+        ],
+        "hw1": 0,
+        "hw2": 0,
+        "fulfilled": false,
+        "plusPoint": 0
+    },
+    {
+        "neptunCode": "CWLKE4",
+        "presence": 8,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.4
+    },
+    {
+        "neptunCode": "WZZTLL",
+        "presence": 8,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 0
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.1
+    },
+    {
+        "neptunCode": "E4UBGU",
+        "presence": 10,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 0,
+        "fulfilled": false,
+        "plusPoint": 0
+    },
+    {
+        "neptunCode": "SQ997J",
+        "presence": 7,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 0
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 1.1
+    },
+    {
+        "neptunCode": "JJ181J",
+        "presence": 10,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.5
+    },
+    {
+        "neptunCode": "BQCMAU",
+        "presence": 9,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0
+    },
+    {
+        "neptunCode": "ZMG6RX",
+        "presence": 8,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 0
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0
+    },
+    {
+        "neptunCode": "FHOMBK",
+        "presence": 9,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.3
+    },
+    {
+        "neptunCode": "T3BG0L",
+        "presence": 7,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.3
+    },
+    {
+        "neptunCode": "OFXL8G",
+        "presence": 10,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.6
+    },
+    {
+        "neptunCode": "GXN833",
+        "presence": 8,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.6
+    },
+    {
+        "neptunCode": "ZFIAG5",
+        "presence": 2,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 0
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 0
+            }
+        ],
+        "hw1": 0,
+        "hw2": 0,
+        "fulfilled": false,
+        "plusPoint": 0
+    },
+    {
+        "neptunCode": "AQ1L7O",
+        "presence": 10,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.7
+    },
+    {
+        "neptunCode": "HX35EU",
+        "presence": 10,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.1
+    },
+    {
+        "neptunCode": "DNN7Q1",
+        "presence": 0,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 0
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 0
+            }
+        ],
+        "hw1": 0,
+        "hw2": 0,
+        "fulfilled": false,
+        "plusPoint": 0
+    },
+    {
+        "neptunCode": "KO8L9F",
+        "presence": 10,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 1.5
+    },
+    {
+        "neptunCode": "HUQFYG",
+        "presence": 1,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 0
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 0
+            }
+        ],
+        "hw1": 0,
+        "hw2": 0,
+        "fulfilled": false,
+        "plusPoint": 0
+    },
+    {
+        "neptunCode": "DG5CJ6",
+        "presence": 9,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 1.5
+    },
+    {
+        "neptunCode": "QH2GS7",
+        "presence": 10,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0
+    },
+    {
+        "neptunCode": "G12DMN",
+        "presence": 10,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.3
+    },
+    {
+        "neptunCode": "YR10UU",
+        "presence": 10,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.2
+    },
+    {
+        "neptunCode": "CGW85R",
+        "presence": 9,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 0
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.4
+    },
+    {
+        "neptunCode": "QIYR1L",
+        "presence": 7,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.5
+    },
+    {
+        "neptunCode": "HQYII1",
+        "presence": 10,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 1
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 1
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 1
+            }
+        ],
+        "hw1": 1,
+        "hw2": 1,
+        "fulfilled": false,
+        "plusPoint": 0.5
+    },
+    {
+        "neptunCode": "N16IAF",
+        "presence": 1,
+        "max": 10,
+        "presenceDetails": [
+            {
+                "date": "2017.09.27.",
+                "detail": 1
+            },
+            {
+                "date": "2017.10.04.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.11.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.18.",
+                "detail": 0
+            },
+            {
+                "date": "2017.10.25.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.08.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.15.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.22.",
+                "detail": 0
+            },
+            {
+                "date": "2017.11.29.",
+                "detail": 0
+            },
+            {
+                "date": "2017.12.06.",
+                "detail": 0
+            }
+        ],
+        "hw1": 0,
+        "hw2": 0,
+        "fulfilled": false,
+        "plusPoint": 0
+    }
+]

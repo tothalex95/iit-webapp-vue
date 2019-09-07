@@ -1,0 +1,42 @@
+[
+    {
+        "semester": "2017/18/1",
+        "subject": "Computer Architectures",
+        "usefulness": 3.714286,
+        "feasibility": 4.428571,
+        "diction": 4.928571,
+        "preparedness": 4.714286,
+        "helpfulness": 4.785714,
+        "raters": 14
+    },
+    {
+        "semester": "2017/18/2",
+        "subject": "Operating Systems",
+        "usefulness": 3.7,
+        "feasibility": 4.65,
+        "diction": 4.7,
+        "preparedness": 4.45,
+        "helpfulness": 4.75,
+        "raters": 20
+    },
+    {
+        "semester": "2018/19/1",
+        "subject": "Computer Architectures",
+        "usefulness": 3.5,
+        "feasibility": 4.5,
+        "diction": 4.6,
+        "preparedness": 4.9,
+        "helpfulness": 4.9,
+        "raters": 10
+    },
+    {
+        "semester": "2018/19/2",
+        "subject": "Operating Systems",
+        "usefulness": 4.24,
+        "feasibility": 4.24,
+        "diction": 4.72,
+        "preparedness": 4.76,
+        "helpfulness": 4.96,
+        "raters": 25
+    }
+]

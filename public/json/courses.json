@@ -1,0 +1,210 @@
+[
+    {
+        "title": "Computer Architectures",
+        "lessons": [
+            {
+                "title": "Lesson 1.",
+                "description": "Introduction",
+                "utils": []
+            },
+            {
+                "title": "Lesson 2.",
+                "description": "Linux Fundamentals",
+                "utils": [
+                    {
+                        "name": "Gyak2.pdf",
+                        "url": "arch/gyak/Gyak2.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 3.",
+                "description": "HTML",
+                "utils": [
+                    {
+                        "name": "w3schools HTML Tutorial",
+                        "url": "https://www.w3schools.com/html/default.asp"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 4.",
+                "description": "Commands, pipes, regex, etc.",
+                "utils": [
+                    {
+                        "name": "Gyak4.pdf",
+                        "url": "arch/gyak/Gyak4.pdf"
+                    },
+                    {
+                        "name": "Example file for practice",
+                        "url": "arch/gyak/gy4.txt"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 5.",
+                "description": "Basics of BASH",
+                "utils": [
+                    {
+                        "name": "Gyak5.pdf",
+                        "url": "arch/gyak/Gyak5.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 6.",
+                "description": "Conditional expressions in BASH",
+                "utils": [
+                    {
+                        "name": "Gyak6.pdf",
+                        "url": "arch/gyak/Gyak6.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 7.",
+                "description": "Loops in BASH",
+                "utils": [
+                    {
+                        "name": "Gyak7.pdf",
+                        "url": "arch/gyak/Gyak7.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 8.",
+                "description": "Functions in BASH",
+                "utils": [
+                    {
+                        "name": "Gyak8.pdf",
+                        "url": "arch/gyak/Gyak8.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Operating Systems",
+        "lessons": [
+            {
+                "title": "Lesson 1.",
+                "description": "Introduction",
+                "utils": []
+            },
+            {
+                "title": "Lesson 2.",
+                "description": "Theoretical Basics",
+                "utils": [
+                    {
+                        "name": "Gyak2.pdf",
+                        "url": "os/gyak/Gyak2.pdf"
+                    },
+                    {
+                        "name": "oslista.txt",
+                        "url": "os/gyak/oslista.txt"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 3.",
+                "description": "Overview of BASH",
+                "utils": [
+                    {
+                        "name": "Gyak3.pdf",
+                        "url": "os/gyak/Gyak3.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 4.",
+                "description": "Processes - child processes",
+                "utils": [
+                    {
+                        "name": "Gyak4.pdf",
+                        "url": "os/gyak/Gyak4.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 5.",
+                "description": "Working with files",
+                "utils": [
+                    {
+                        "name": "Gyak5.pdf",
+                        "url": "os/gyak/Gyak5.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 6.",
+                "description": "Pipes",
+                "utils": [
+                    {
+                        "name": "Gyak6.pdf",
+                        "url": "os/gyak/Gyak6.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 7.",
+                "description": "Message Queue",
+                "utils": [
+                    {
+                        "name": "Gyak7.pdf",
+                        "url": "os/gyak/Gyak7.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 8.",
+                "description": "Shared Memory",
+                "utils": [
+                    {
+                        "name": "Gyak8.pdf",
+                        "url": "os/gyak/Gyak8.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 9.",
+                "description": "Semaphore",
+                "utils": [
+                    {
+                        "name": "Gyak9.pdf",
+                        "url": "os/gyak/Gyak9.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 10.",
+                "description": "Signal",
+                "utils": [
+                    {
+                        "name": "Gyak10.pdf",
+                        "url": "os/gyak/Gyak10.pdf"
+                    }
+                ]
+            },
+            {
+                "title": "Lesson 11.",
+                "description": "MMAP",
+                "utils": [
+                    {
+                        "name": "Gyak11.pdf",
+                        "url": "os/gyak/Gyak11.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "XML Data Management",
+        "lessons": [
+            {
+                "title": "Lesson 1.",
+                "description": "Introduction",
+                "utils": []
+            }
+        ]
+    }
+]

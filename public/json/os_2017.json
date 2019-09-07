@@ -1,0 +1,2164 @@
+[
+	{
+		"neptunCode": "IR8C7K",
+		"presence": 7,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 1
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "YTBR1C",
+		"presence": 7,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 1
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "GWPC55",
+		"presence": 0,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "B471W5",
+		"presence": 8,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 1
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "RZWAY7",
+		"presence": 9,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 1
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "JRWSA2",
+		"presence": 0,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "CLJZFF",
+		"presence": 0,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "K8HJGD",
+		"presence": 1,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "GMZLQN",
+		"presence": 3,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "PXCZCK",
+		"presence": 7,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 1
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "CE4RB0",
+		"presence": 1,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "YXI8DJ",
+		"presence": 8,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 1
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "TVCB7C",
+		"presence": 7,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "SPHC9W",
+		"presence": 8,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 1
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "DE7VN3",
+		"presence": 6,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "BQ1IXF",
+		"presence": 8,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 1
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "MDBAFO",
+		"presence": 7,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "IYWK7C",
+		"presence": 8,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "AVNYPF",
+		"presence": 0,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "TIBMEG",
+		"presence": 7,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "NK7XZU",
+		"presence": 7,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "Y3QFQK",
+		"presence": 7,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "ASL7ZK",
+		"presence": 8,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "KOZ7HS",
+		"presence": 7,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "DOXP25",
+		"presence": 7,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "O1GLFP",
+		"presence": 8,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 1
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "BMBBKM",
+		"presence": 0,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "TMN7C4",
+		"presence": 3,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "F3GGS5",
+		"presence": 0,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "B4LJ77",
+		"presence": 1,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "WGYA1Y",
+		"presence": 5,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "LU6RR4",
+		"presence": 4,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "VS5B4M",
+		"presence": 1,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "EDJIVI",
+		"presence": 0,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "G0XXTC",
+		"presence": 8,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 1
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "MLG9EP",
+		"presence": 8,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "F9FYC8",
+		"presence": 3,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "I3WMJC",
+		"presence": 9,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 1
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "BSETRB",
+		"presence": 4,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "GZJHTZ",
+		"presence": 5,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "D2VTDS",
+		"presence": 1,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 1
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "GXHI1C",
+		"presence": 0,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "Z43K7G",
+		"presence": 8,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 1
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 1
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "BDGL2E",
+		"presence": 1,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "J5U17O",
+		"presence": 7,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 1
+			},
+			{
+				"date": "Gyak3",
+				"detail": 1
+			},
+			{
+				"date": "Gyak4",
+				"detail": 1
+			},
+			{
+				"date": "Gyak5",
+				"detail": 1
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 1
+			},
+			{
+				"date": "Gyak8",
+				"detail": 1
+			},
+			{
+				"date": "Gyak9",
+				"detail": 1
+			}
+		],
+		"hw1": true,
+		"hw2": true,
+		"fulfilled": false,
+		"plusPoint": 0
+	},
+	{
+		"neptunCode": "JN9AO6",
+		"presence": 0,
+		"max": 9,
+		"presenceDetails": [
+			{
+				"date": "Gyak1",
+				"detail": 0
+			},
+			{
+				"date": "Gyak2",
+				"detail": 0
+			},
+			{
+				"date": "Gyak3",
+				"detail": 0
+			},
+			{
+				"date": "Gyak4",
+				"detail": 0
+			},
+			{
+				"date": "Gyak5",
+				"detail": 0
+			},
+			{
+				"date": "Gyak6",
+				"detail": 0
+			},
+			{
+				"date": "Gyak7",
+				"detail": 0
+			},
+			{
+				"date": "Gyak8",
+				"detail": 0
+			},
+			{
+				"date": "Gyak9",
+				"detail": 0
+			}
+		],
+		"hw1": true,
+		"hw2": false,
+		"fulfilled": true,
+		"plusPoint": 0
+	}
+]

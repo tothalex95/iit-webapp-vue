@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "OLAP and Data Mining Methods",
+        "occasions": [
+            {
+                "day": "tuesday",
+                "from": 12,
+                "to": 14
+            },
+            {
+                "day": "wednesday",
+                "from": 10,
+                "to": 12
+            }
+        ]
+    },
+    {
+        "subject": "Development of Distributed Systems",
+        "occasions": [
+            {
+                "day": "wednesday",
+                "from": 14,
+                "to": 18
+            }
+        ]
+    },
+    {
+        "subject": "Professional Practice",
+        "occasions": [
+            {
+                "day": "thursday",
+                "from": 8,
+                "to": 16
+            },
+            {
+                "day": "friday",
+                "from": 8,
+                "to": 16
+            }
+        ]
+    },
+    {
+        "subject": "XML Data Management",
+        "occasions": [
+            {
+                "day": "wednesday",
+                "from": 8,
+                "to": 10
+            }
+        ]
+    },
+    {
+        "subject": "Computer Architectures",
+        "occasions": [
+            {
+                "day": "monday",
+                "from": 12,
+                "to": 16
+            }
+        ]
+    }
+]
